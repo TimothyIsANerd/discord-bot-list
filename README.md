@@ -8,3 +8,5 @@
 The above terms are subject to change without prior or post notice, by using our services you agree to said terms. 
 
 Last Edited: (2017-04-28) Friday 28th April, 2017 at 17:00 GMT
+
+![](https://discordbots.org/images/logotrans.png)
